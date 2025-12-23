@@ -1,0 +1,21 @@
+https://expressjs.com/
+initialize package.josn = npm init -y
+install expressjs = npm install express --save
+install typescript with dependency = npm i -D typescript
+initialize typescript = npx tsc --init
+install @types of express = npm i --save-dev @types/express
+
+https://nodejs.org/en/learn/typescript/run
+Running TypeScript code with tsx = npm i -D tsx
+Then set run command inside package.json file '"scripts"' = npx tsx example.ts
+"dev": "npx tsx watch ./src/server.ts"
+
+PostgreSQL
+-----------
+https://www.npmjs.com/package/pg
+install PostgreSQL = npm i pg
+
+Neon db = npx neonctl@latest init
+=============
+https://neon.com/
+npm i --save-dev @types/pg
