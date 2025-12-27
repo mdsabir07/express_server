@@ -19,3 +19,15 @@ Neon db = npx neonctl@latest init
 =============
 https://neon.com/
 npm i --save-dev @types/pg
+
+bcript js
+----------
+https://www.npmjs.com/package/bcryptjs
+install = npm i bcryptjs
+import bcrypt from "bcryptjs";
+
+jwt npm= https://www.npmjs.com/package/jsonwebtoken
+--------------------
+install = npm i jsonwebtoken
+install type = npm i --save-dev @types/jsonwebtoken
+256 bits secret codes = KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30
